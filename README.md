@@ -32,6 +32,8 @@ Which year recorded the lowest GDP, and what was the percentage growth in the fo
 
 What is the average GDP of Indian cities from 2019–2023?                                                               
 
+Dashboard interaction:
+
 
 <a href=" https://github.com/kaliyaperumal-ca/ECONOMIC-HUMAN-RESOURCES-PRODUCTIVITY-AMONG-INDIAN-CITIES/blob/main/dashboard.png"> dashboard</a>
 
