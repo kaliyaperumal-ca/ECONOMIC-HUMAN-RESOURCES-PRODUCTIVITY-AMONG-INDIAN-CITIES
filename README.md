@@ -14,7 +14,11 @@ Identify growth patterns and turning points, such as the sharp GDP recovery afte
 
 Provide actionable insights to policymakers, urban planners, and economic strategists for improving GDP contribution, enhancing employment opportunities, and fostering a stronger innovation ecosystem across Indian cities.
 
-<a href=" https://github.com/kaliyaperumal-ca/ECONOMIC-HUMAN-RESOURCES-PRODUCTIVITY-AMONG-INDIAN-CITIES/blob/main/ECONOMIC%20%26%20HUMAN%20RESOURCES%20PRODUCTIVITY%20AMONG%20%20INDIAN%20CITIES.pbix">view-powerbi</a>
+
+View-in powerbi:
+
+
+<a href="https://github.com/kaliyaperumal-ca/ECONOMIC-HUMAN-RESOURCES-PRODUCTIVITY-AMONG-INDIAN-CITIES/blob/main/ECONOMIC%20%26%20HUMAN%20RESOURCES%20PRODUCTIVITY%20AMONG%20%20INDIAN%20CITIES.pbix">view-powerbi</a>
 
 
 
@@ -32,10 +36,13 @@ Which year recorded the lowest GDP, and what was the percentage growth in the fo
 
 What is the average GDP of Indian cities from 2019–2023?                                                               
 
+
+
 Dashboard interaction:
 
 
-<a href=" https://github.com/kaliyaperumal-ca/ECONOMIC-HUMAN-RESOURCES-PRODUCTIVITY-AMONG-INDIAN-CITIES/blob/main/dashboard.png">dashboard</a>
+<a href="https://github.com/kaliyaperumal-ca/ECONOMIC-HUMAN-RESOURCES-PRODUCTIVITY-AMONG-INDIAN-CITIES/blob/main/dashboard.png">dashboard</a>
+
 
 
 Employment KPIs:
